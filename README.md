@@ -3,14 +3,13 @@
 > Control your Windows PC remotely from Telegram — anywhere, anytime.
 
 A Python all-in-one application with a modern dark GUI that runs a Telegram bot, giving you full remote control of your PC from your phone.
----
-
 > [!TIP]
 > ### ⚡ SKIP THE SETUP? JUST USE THE .EXE! ⚡
 > No need to install Python or mess with the command prompt. 
 > Simply download **`TelegramPCController.exe`** from the Release page, double-click, and start controlling your PC instantly!
 > 
----
+> ⬇️ **[Download TelegramPCController.exe Here](#https://t.me/nothingdotexe)**
+
 **Author:** [Nothing-dot-exe](https://github.com/Nothing-dot-exe)
 
 <div align="center">
