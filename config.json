@@ -1,8 +1,8 @@
 {
     "_README": "Telegram PC Controller Configuration",
     "_BOT_TOKEN_help": "Get this from @BotFather on Telegram (/newbot)",
-    "BOT_TOKEN": "8633595914:AAFpS9UxQ-aoLLplhHHvzL721W1jiIiA6kA",
+    "BOT_TOKEN": "8633595914:*********************",
     "_AUTHORIZED_USER_ID_help": "Your Telegram User ID (get it from @RawDataBot or /myid command)",
-    "AUTHORIZED_USER_ID": 8375426834,
+    "AUTHORIZED_USER_ID": 837*******,
     "_author": "Nothing-dot-exe (https://github.com/Nothing-dot-exe)"
 }
