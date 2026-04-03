@@ -10,7 +10,7 @@ A Python all-in-one application with a modern dark GUI that runs a Telegram bot,
 > No need to install Python or mess with the command prompt. 
 > Simply download **`TelegramPCController.exe`** from the Release page, double-click, and start controlling your PC instantly!
 > 
-> # For premium features contact [Nothing-dot-exe](https://t.me/nothingdotexe)*
+> # For premium features contact [Nothing-dot-exe](https://t.me/nothingdotexe)
 >
 > 
 
